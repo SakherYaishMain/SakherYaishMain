@@ -12,6 +12,7 @@ Welcome to my GitHub! I’m a passionate AI engineer, full-stack developer, and 
 - **Machine Learning & AI Projects**: From sign language recognition to sentiment analysis, I’m continuously pushing the boundaries of machine learning in various domains.
 
 ### 💡 Some of My Projects:
+- **Custom ViT Resnet Architecture for Sign Language Recognition**: Achieved 98% accuracy in recognizing Arabic sign language using a custom ViT Resnet architecture.
 - **Neural Network for Wi-Fi Localization**: Achieved 96.5% accuracy in predicting room location with Keras and TensorFlow.
 - **Sentiment Analysis**: Built a custom Bayes classifier for analyzing Google Play reviews, achieving an F1-score of 0.73.
 - **Student Club Management Dashboard**: Designed a platform to manage club activities, integrated with Discord API for seamless communication.
